@@ -7,9 +7,11 @@
 - sass
 
 # Usage
-`git clone`
+  ```shell
+  git clone https://github.com/mx623303468/vite-vue2.7-element-ui.git
 
-```
-npm install -g degit
-npx degit
-```
+  # or
+  
+  npx degit https://github.com/mx623303468/vite-vue2.7-element-ui
+  ```
+  
